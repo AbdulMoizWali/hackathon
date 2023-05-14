@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.HomeBody{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10% 0%;
+}
+
+.Container{
+  min-width: 350px;
+  padding: 10px 15px;
+  border-radius: 25px;
+  border: 1px solid #eee;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-bottom: 10px;
+}
